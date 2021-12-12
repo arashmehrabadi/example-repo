@@ -1,2 +1,1 @@
-# example-repo
-class projects
+first repository for web design course
